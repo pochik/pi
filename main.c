@@ -49,3 +49,4 @@ int main(int argc, char** argv) {
     printf ("Результат ПИ = %.26f\n", pi);
     return 0;
 }
+

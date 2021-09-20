@@ -1,4 +1,4 @@
-all:
+all: main.c
 	gcc main.c -o main -pthread
 	./main 1000000 4
 	rm main
